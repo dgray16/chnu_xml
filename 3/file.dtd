@@ -1,0 +1,11 @@
+<!ELEMENT progress (student)*>
+        <!ELEMENT student (name, group, book)>
+
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT group (#PCDATA)>
+
+        <!ELEMENT book (#PCDATA)>
+                <!ATTLIST book mark1 CDATA #REQUIRED>
+                <!ATTLIST book mark2 CDATA #REQUIRED>
+                <!ATTLIST book mark3 CDATA #REQUIRED>
+                <!ATTLIST book mark4 CDATA #REQUIRED>

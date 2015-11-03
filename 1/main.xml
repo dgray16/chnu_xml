@@ -1,0 +1,29 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+
+    <progress>
+        <student>
+            <name>Perebykisvkiy V.V</name>
+            <group>443SK</group>
+            <book>
+                <book_number>0987654321</book_number>
+                <mark1>5</mark1>
+                <mark2>4</mark2>
+                <mark3>3</mark3>
+                <mark4>4</mark4>
+
+            </book>
+        </student>
+
+        <student>
+            <name>Test Tester</name>
+            <group>441</group>
+            <book>
+                <book_number>1234567890</book_number>
+                <mark1>3</mark1>
+                <mark2>3</mark2>
+                <mark3>4</mark3>
+                <mark4>3</mark4>
+            </book>
+        </student>
+    </progress>

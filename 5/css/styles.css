@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+th, td {
+    padding: 5px;
+}
+div{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+#search{
+    width: 16%;
+}
+input[type="button"]{
+    width: 100px;
+}

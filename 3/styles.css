@@ -1,0 +1,16 @@
+name{
+    display: block;
+}
+group{
+    display: block;
+}
+book_number{
+    display: block;
+}
+book_number mark1, mark2, mark3, mark4{
+    display: block;
+}
+student{
+    display: block;
+    padding-top: 10px;
+}
